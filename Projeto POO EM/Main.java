@@ -23,6 +23,7 @@ public class Main {
             return;
         }
 
-
+        Menu menu = new Menu();
+        menu.menuImpressora();
     }
 }
